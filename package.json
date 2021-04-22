@@ -23,5 +23,8 @@
   "license": "ISC",
   "jest": {
     "testURL": "http://localhost/"
+  },
+  "dependencies": {
+    "typescript": "^4.1.5"
   }
 }
